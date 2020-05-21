@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/sagarc03/docker-images.svg?style=svg)](https://circleci.com/gh/sagarc03/docker-images)
+[![CircleCI](https://circleci.com/gh/sagarc03/docker-images.svg?style=shield)](https://circleci.com/gh/sagarc03/docker-images)
