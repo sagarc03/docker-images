@@ -27,4 +27,4 @@ help: # Help prompt
 	@python -c "$$PRINT_HELP_PYSCRIPT" < $(MAKEFILE_LIST)
 
 build: # Build all images
-	./build
+	sh build
